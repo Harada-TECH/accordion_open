@@ -1,0 +1,21 @@
+----------【HTML】----------
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+9-2-1　任意の場所をクリックすると隠れていた内容が開く
+
+お見積もりの目安を教えてください。
+内容によって変化いたしますのでまずはお問い合わせフォームよりご相談ください。
+
+地方ですが発注は可能でしょうか
+可能です。お気軽にご相談ください。
+
+セミナーやイベントの出演を依頼したいのですが
+お問い合わせフォームより日時や内容などをご記入いただきご相談ください。
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="assets/js/script.js"></script>
+
+
+----------【CSS】----------
+@import "https://unpkg.com/ress/dist/ress.min.css";
